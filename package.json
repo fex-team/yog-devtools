@@ -1,6 +1,6 @@
 {
   "name": "yog-devtools",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "提供数据模拟，页面跳转等功能协助前端快速开发。",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/fex-team/yog-devtools/issues"
   },
-  "homepage": "https://github.com/fex-team/yog-devtools"
+  "homepage": "https://github.com/fex-team/yog-devtools",
+  "dependencies": {
+    "http-proxy": "^1.13.2"
+  }
 }
