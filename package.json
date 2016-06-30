@@ -1,6 +1,6 @@
 {
   "name": "yog-devtools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "提供数据模拟，页面跳转等功能协助前端快速开发。",
   "main": "index.js",
   "scripts": {
